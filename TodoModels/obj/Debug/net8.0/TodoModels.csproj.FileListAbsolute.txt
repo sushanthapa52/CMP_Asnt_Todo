@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\CMP\TodoModels\bin\Debug\net8.0\TodoModels.deps.json
+C:\Users\Dell\Desktop\CMP\TodoModels\bin\Debug\net8.0\TodoModels.dll
+C:\Users\Dell\Desktop\CMP\TodoModels\bin\Debug\net8.0\TodoModels.pdb
+C:\Users\Dell\Desktop\CMP\TodoModels\obj\Debug\net8.0\TodoModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\CMP\TodoModels\obj\Debug\net8.0\TodoModels.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\CMP\TodoModels\obj\Debug\net8.0\TodoModels.AssemblyInfo.cs
+C:\Users\Dell\Desktop\CMP\TodoModels\obj\Debug\net8.0\TodoModels.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\CMP\TodoModels\obj\Debug\net8.0\TodoModels.dll
+C:\Users\Dell\Desktop\CMP\TodoModels\obj\Debug\net8.0\refint\TodoModels.dll
+C:\Users\Dell\Desktop\CMP\TodoModels\obj\Debug\net8.0\TodoModels.pdb
+C:\Users\Dell\Desktop\CMP\TodoModels\obj\Debug\net8.0\ref\TodoModels.dll
