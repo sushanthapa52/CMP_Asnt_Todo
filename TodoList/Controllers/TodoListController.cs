@@ -16,6 +16,10 @@ namespace TodoList.Controllers
             _dbContext = dbContext;
         }
 
+        //Create a Get request that takes no arguments and returns all ToDoItems that have no CompletedDate set.
+        // "completedDate": null gives the desired output
+        // "completedDate": "" throws 400 error
+        //
         [HttpGet]
         public async Task<ActionResult<IEnumerable<TodoItem>>> GetToDoItemsWithoutCompletedDate()
         {
@@ -38,6 +42,8 @@ namespace TodoList.Controllers
 
             return CreatedAtAction(nameof(GetToDoItemById), new { id = newToDoItem.Id }, newToDoItem);
         }
+
+        //Create a Get request that takes one argument of "Id" and returns the ToDoItem that matches the Id.
         [HttpGet("{id}")]
         public async Task<ActionResult<TodoItem>> GetToDoItemById(int id)
         {
