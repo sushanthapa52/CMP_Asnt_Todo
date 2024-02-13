@@ -9,3 +9,4 @@ C:\Users\Dell\Desktop\CMP\TodoModels\obj\Debug\net8.0\TodoModels.dll
 C:\Users\Dell\Desktop\CMP\TodoModels\obj\Debug\net8.0\refint\TodoModels.dll
 C:\Users\Dell\Desktop\CMP\TodoModels\obj\Debug\net8.0\TodoModels.pdb
 C:\Users\Dell\Desktop\CMP\TodoModels\obj\Debug\net8.0\ref\TodoModels.dll
+C:\Users\Dell\Desktop\CMP\TodoModels\obj\Debug\net8.0\TodoModels.sourcelink.json

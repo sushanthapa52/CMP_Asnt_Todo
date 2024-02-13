@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TodoModels\TodoModels.csproj" />
+    <ProjectReference Include="..\TodoTest\TodoTest.csproj" />
   </ItemGroup>
 
 </Project>
